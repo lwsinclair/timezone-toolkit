@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/cicatriiz-timezone-toolkit-badge.png)](https://mseep.ai/app/cicatriiz-timezone-toolkit)
+
 <div align="center">
   <img src="logo.png" alt="TimezoneToolkit Logo" width="200"/>
   <h1>TimezoneToolkit MCP Server</h1>
